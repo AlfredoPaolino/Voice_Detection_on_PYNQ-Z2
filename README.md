@@ -385,15 +385,6 @@ Distributed under the BSD 3-Clause License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Project Link: [https://github.com/SoC-Arch-polito/pynq22](https://github.com/SoC-Arch-polito/pynq22)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Developers
 
